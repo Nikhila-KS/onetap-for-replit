@@ -1,4 +1,4 @@
-# OneTap - All INFO WITH A TAP
+# OneTap - All Info with a Tap
 
 <img width="149" alt="only logo (1)" src="https://user-images.githubusercontent.com/100759293/211190034-89b6e797-51f8-4c5f-941d-4a4bdae9a1f5.png">
 
@@ -13,7 +13,7 @@ according to their time and price. They will be shown all avaialble places which
 
 2.If they are the owner of any of the above mentioned, they can place it for booking with time availability and price.
 
-## Glimse of Our website
+## Glimpse of Our website
 
 ### Cover page
 ![Screenshot from 2023-01-08 15-52-37](https://user-images.githubusercontent.com/100759293/211190958-0f6b0613-20bc-4e2c-8577-e7b2657ae4e4.png)
