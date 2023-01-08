@@ -1,4 +1,4 @@
-# OneTap - All INFO WITH A TAP
+# OneTap - All Info with a Tap
 
 <img width="149" alt="only logo (1)" src="https://user-images.githubusercontent.com/100759293/211190034-89b6e797-51f8-4c5f-941d-4a4bdae9a1f5.png">
 
