@@ -26,13 +26,14 @@ according to their time and price. They will be shown all avaialble places which
 
 ## Deplyoment of our website
 
-<a href="https://onetap-for-replit.nikhilaks.repl.co/">One-Tap Replit</a>
+OneTap has been deployed on 2 major platforms :<br/>
+<ul><li><a href="https://onetap-for-replit.nikhilaks.repl.co/">One-Tap Replit</a></li>
 </br>
-<a href="https://onetap1234.netlify.app/">One-Tap Netlify</a>
+<li><a href="https://onetap1234.netlify.app/">One-Tap Netlify</a></li></ul>
 
 
 ## Features to  be added 
-1. Chat Feature between the customer and the owner
+1. A chat feature between the customer and the owner for effective communication
 
-2. Rating and review options 
+2. Rating and review options to help future customers choose the best.
 
