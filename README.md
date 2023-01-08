@@ -8,10 +8,10 @@ Just sitting at their home, they can search for best avaiable place they are loo
 directly contact the owner.
 
 ## Features of our website
-1.Customer can find information about  Auditoriums, Banquet Halls, Swimming Pool, Gyms, Open Grounds, Cafe, Launges etc. 
+1. Customer can find information about  Auditoriums, Banquet Halls, Swimming Pool, Gyms, Open Grounds, Cafe, Launges etc. 
 according to their time and price. They will be shown all avaialble places which fit their time.
 
-2.If they are the owner of any of the above mentioned, they can place it for booking with time availability and price.
+2. If they are the owner of any of the above mentioned, they can place it for booking with time availability and price.
 
 ## Glimse of Our website
 
