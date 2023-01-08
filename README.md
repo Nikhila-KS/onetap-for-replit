@@ -3,7 +3,7 @@
 <img width="149" alt="only logo (1)" src="https://user-images.githubusercontent.com/100759293/211190034-89b6e797-51f8-4c5f-941d-4a4bdae9a1f5.png">
 
 ## About our  Website
-You might be curious why is our website name One Tap. Well our website provide information about banquets, hall, auditoriums, gym, swimming pool etc.
+You might be curious why is our website name OneTap. Well our website provide information about banquets, hall, auditoriums, gym, swimming pool etc.
 Just sitting at their home, they can search for best avaiable place they are looking for. Our website will show all the available places and they can 
 directly contact the owner.
 
