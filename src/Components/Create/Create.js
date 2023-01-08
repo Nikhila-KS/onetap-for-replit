@@ -70,10 +70,10 @@ const Create = () => {
         >
           {" "}
           <option>Select Category</option>
-          <option value="Auditorium">Auditorium</option>
-          <option value="Gym">Gym</option>
-          <option value="Swimming Pool">Swimming Pool</option>
-          <option value="Cafe">Cafe</option>
+          <option value="Auditoriums">Auditorium</option>
+          <option value="Gyms">Gym</option>
+          <option value="Swimming Pools">Swimming Pool</option>
+          <option value="Cafes">Cafe</option>
           <option value="Open Grounds">Open Grounds</option>
           <option value="Lounges">Lounges</option>
         </select>
